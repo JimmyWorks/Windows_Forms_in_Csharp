@@ -1,0 +1,9 @@
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint_by_Jimmy_Nguyen.Properties.Resources.resources
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint by Jimmy Nguyen.csproj.GenerateResource.Cache
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\bin\Debug\Paint by Jimmy Nguyen.exe.config
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\bin\Debug\Paint by Jimmy Nguyen.exe
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\bin\Debug\Paint by Jimmy Nguyen.pdb
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint by Jimmy Nguyen.exe
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint by Jimmy Nguyen.pdb
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint by Jimmy Nguyen.csprojResolveAssemblyReference.cache
+C:\Users\Jimmy\documents\visual studio 2017\Projects\Paint by Jimmy Nguyen\Paint by Jimmy Nguyen\obj\Debug\Paint_by_Jimmy_Nguyen.MainPanel.resources
